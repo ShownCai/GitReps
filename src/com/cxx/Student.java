@@ -3,5 +3,5 @@ package com.cxx;
 public class Student {
     private String name;
     private int age;
-    private double height;
+    private double weight;
 }
